@@ -1,7 +1,7 @@
 
 ##Description
 
-This is simple event logger library. Can be used for writing in files and postgresql database.
+This is simple event logger library. Can be used for writing in files and postgresql database. All needed jars you can find [here](https://github.com/ZJovevski/Event-log/tree/master/jars)
 
 
 * [How to use](#how-to-use)
@@ -37,9 +37,9 @@ This is simple event logger library. Can be used for writing in files and postgr
 
 
 ##Download
-* [eventlog.jar](https://github.com/ZJovevski/Event-log/blob/master/jars/eventlog.jar)
-* [eventlog-sources](https://github.com/ZJovevski/Event-log/blob/master/jars/eventlog-sources.jar)
-* [eventlog-jar-with-dependencies](https://github.com/ZJovevski/Event-log/blob/master/jars/eventlog-jar-with-dependencies.jar)
+* [eventlog.jar](https://github.com/ZJovevski/Event-log/raw/master/jars/eventlog.jar)
+* [eventlog-sources](https://github.com/ZJovevski/Event-log/raw/master/jars/eventlog-sources.jar)
+* [eventlog-jar-with-dependencies](https://github.com/ZJovevski/Event-log/raw/master/jars/eventlog-jar-with-dependencies.jar)
 
 
 
