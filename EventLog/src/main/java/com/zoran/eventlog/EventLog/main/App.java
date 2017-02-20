@@ -15,7 +15,7 @@ public class App {
 
 		for (int i = 1; i < 20; i++) {
 			IEventController eventService = new DBEventController();
-			Timestamp timestamp = Timestamp.valueOf("2027-02-20 10:10:10.0");
+			Timestamp timestamp = Timestamp.valueOf("2017-02-20 10:10:10.0");
 			EventType event = new EventType(timestamp, "EventName" + i, "action", "username");
 			eventService.log(event);
 		}
