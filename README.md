@@ -27,8 +27,9 @@ This is simple event logger library. Can be used for writing in files and postgr
  5. call log method from the eventLogger controller with EventType object as parameter 
  
  ```
-     EventType event = new EventType(timestamp, "EventName" + i, "action", "username");
-	 eventLoggerFile.log(event);
+ 	Timestamp timestamp = Timestamp.valueOf("2027-02-20 10:10:10.0");
+     	EventType event = new EventType(timestamp, "EventName" + i, "action", "username");
+	eventLoggerFile.log(event);
    ```
    
 
@@ -49,10 +50,10 @@ This is simple event logger library. Can be used for writing in files and postgr
 
 ##Developers Instructions
 
- Import EventLog project as existing maven project
- Right click on the project Run As Maven Build 
- in goals add package and press run
- into target folder will be create all needed jars
+ * Import EventLog project as existing maven project
+ * Right click on the project Run As Maven Build 
+ * In goals add package and press run
+ * Into target folder will be create all needed jars
 
 
 
