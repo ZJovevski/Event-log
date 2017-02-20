@@ -4,9 +4,9 @@
 This is simple event logger library. Can be used for writing in files and postgresql database.
 
 
-* [How to use](#how to use)
+* [How to use](#how-to-use)
 * [Download](#download)
-* [Developer Instructions](#developer instructions)
+* [Developer Instructions](#developer-instructions)
 
 
 ##How to use
