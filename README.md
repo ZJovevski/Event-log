@@ -43,3 +43,17 @@ This is simple event logger library. Can be used for writing in files and postgr
 
 
 
+
+
+
+
+##Developers Instructions
+
+ Import EventLog project as existing maven project
+ Right click on the project Run As Maven Build 
+ in goals add package and press run
+ into target folder will be create all needed jars
+
+
+
+
