@@ -2,7 +2,7 @@
 ##Description
 
 This is simple event logger library. Can be used for writing in files and postgresql database. All needed jars you can find [here](https://github.com/ZJovevski/Event-log/tree/master/jars)
-
+![alt tag](https://docs.google.com/drawings/d/17DPESHisozth32MqVTvInw72qCIaQgjTvpY6QBq2Frs/pub?w=960&h=720)
 
 * [How to use](#how-to-use)
 * [Download](#download)
